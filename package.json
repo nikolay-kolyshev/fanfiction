@@ -6,7 +6,7 @@
   "scripts": {
     "presetup": "rm -rf node_modules",
     "setup": "pnpm install --frozen-lockfile",
-    "dev": "vite",
+    "start": "vite",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview"
   },
