@@ -11,6 +11,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vue/reactivity": "^3.0.2",
+    "@vue/runtime-core": "^3.0.2",
+    "effector": "22.3.0",
+    "effector-vue": "22.2.0",
     "vue": "3.2.41"
   },
   "devDependencies": {
