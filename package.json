@@ -17,7 +17,8 @@
     "effector-storage": "5.0.1",
     "effector-vue": "22.2.0",
     "patronum": "1.12.3",
-    "vue": "3.2.41"
+    "vue": "3.2.41",
+    "vue-router": "4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "3.1.2",
